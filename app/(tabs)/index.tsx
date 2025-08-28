@@ -29,7 +29,7 @@ export default function Index() {
         <ImageViewer imgSource={PlaceholderImage} selectedImage={selectedImage} />
       </View>
       <View style={styles.footerContainer}>
-        <Button theme="primary" label="Choose a photo" onPress={pickImageAsync} />
+        <Button theme="primary" label="CFEFE È GOSTOSO" onPress={pickImageAsync} />
         <Button label="Use this photo" />
       </View>
     </View>
